@@ -1,0 +1,5 @@
+language: c++
+script:
+  - doxygen
+after_success:
+  - bash publish_docs.sh
