@@ -1,3 +1,6 @@
+# Ignore built HTML.
+/html
+
 # Compiled Object files
 *.slo
 *.lo
